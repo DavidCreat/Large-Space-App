@@ -888,8 +888,8 @@ blockquote span img {
     left: 0;
     height: 50px;
     width: 100%;
-    background-color: #070708;
-    box-shadow: 0 0px 50px 0 #000;
+    background-color: #74d4e0;
+    box-shadow: 0 0px 50px 0 #74d4e0;
     z-index: 10;
     display: none;
     -webkit-transition: all .3s ease-in-out;
