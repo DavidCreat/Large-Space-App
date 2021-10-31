@@ -39,7 +39,7 @@ $(window).on('load', function() {
 	/* -----------------------------------
 			  2. Sound Setup
 	----------------------------------- */
-	$('body').append('<audio loop autoplay volume="56" id="audio-player"><source src="Spotify-playlist-happy-summer (1).mp3" type="audio/mp3"></audio>');
+	$('body').append('<audio loop autoplay volume="56" id="audio-player"><source src="Spotify-playlist-happy-summer (1).mp3" type="audio/mpeg"></audio>');
     	var audio = document.getElementById("audio-player");
     	audio.volume = 0.2;
 	
