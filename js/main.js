@@ -39,7 +39,7 @@ $(window).on('load', function() {
 	/* -----------------------------------
 			  2. Sound Setup
 	----------------------------------- */
-	$('body').append('<audio loop autoplay volume="56" id="audio-player"><source src="audio/LOMEJOR.mp3" type="audio/mpeg">Do Not Let Your Hearts Be Troubled.mp3</audio>');
+	$('body').append('<audio loop autoplay volume="56" id="audio-player"><source src="audio/Do Not Let Your Hearts Be Troubled.mp3" type="audio/mpeg">Do Not Let Your Hearts Be Troubled.mp3</audio>');
     	var audio = document.getElementById("audio-player");
     	audio.volume = 0.2;
 	
